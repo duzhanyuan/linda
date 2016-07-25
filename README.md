@@ -68,7 +68,6 @@ Build and run:
 ## Configuration
 
 * See [linda.example.toml](linda.example.toml) for configuration example.
-* Detailed explanation for each option available on [wiki](https://github.com/kpashka/linda/wiki/Configuration).
 
 ## Deployment
 
